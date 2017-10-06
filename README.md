@@ -1,4 +1,4 @@
-#### Repositório de materiais gráficos "Tchelinux"
+# Repositório de materiais gráficos "Tchelinux"
 
 Aqui estão materiais de apoio para livre utilização em eventos, palestras, Facebook, YouTube, cartazes e o que mais for adicionado ao respositório.
 
@@ -9,7 +9,7 @@ Como o objetivo é permitir a livre utilização e o acesso universal ao materia
 
 ### Objetivo
 
-Servir como repositório gráfico e publicitário* para o grupo Tchelinux, facilitando a criação de eventos, a padronização visual nas redes sociais* e diminuindo a dependência humana em casos onde não é possível prover dela.   
+Servir como repositório gráfico e publicitário* para o grupo Tchelinux, facilitando a criação de eventos, a padronização visual nas redes sociais* e diminuindo a dependência humana em casos onde não é possível prover de ajuda especializada ou em situações de sobrecarga.   
 Com o repositório de arquivos, buscamos encorajar novos membros na organização de eventos e na divulgação dos mesmos.
 
 ### O que é o Tchelinux?
