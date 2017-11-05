@@ -1,3 +1,4 @@
+alterando a primera linhad o arquivo readme . md 
 # Repositório de materiais gráficos "Tchelinux"
 
 Aqui estão materiais de apoio para livre utilização em eventos, palestras, Facebook, YouTube, cartazes e o que mais for adicionado ao respositório.
