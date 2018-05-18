@@ -1,6 +1,6 @@
 # Repositório de templates
 
-Aqui estão materiais de apoio para livre utilização em eventos, palestras, Facebook, YouTube, cartazes e o que mais for adicionado ao respositório.
+Aqui estão materiais de apoio para livre utilização em eventos, palestras, Facebook, YouTube, cartazes e o que mais for adicionado ao repositório.
 
 ### Padrões abertos
 
