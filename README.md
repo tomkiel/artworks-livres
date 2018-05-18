@@ -1,4 +1,4 @@
-# Repositório de materiais gráficos "Tchelinux"
+# Repositório de templates
 
 Aqui estão materiais de apoio para livre utilização em eventos, palestras, Facebook, YouTube, cartazes e o que mais for adicionado ao respositório.
 
@@ -9,30 +9,34 @@ Como o objetivo é permitir a livre utilização e o acesso universal ao materia
 
 ### Objetivo
 
-Servir como repositório gráfico e publicitário* para o grupo Tchelinux, facilitando a criação de eventos, a padronização visual nas redes sociais* e diminuindo a dependência humana em casos onde não é possível prover de ajuda especializada ou em situações de sobrecarga.   
+Servir como repositório gráfico e publicitário* para grupos de divulgação de Software Livre, facilitando a criação de eventos, a padronização visual nas redes sociais* e diminuindo a dependência humana em casos onde não é possível prover de ajuda especializada ou em situações de sobrecarga.   
 Com o repositório de arquivos, buscamos encorajar novos membros na organização de eventos e na divulgação dos mesmos.
 
-### O que é o Tchelinux?
+### Atalhos para download
 
-**Quem somos?**
+Aqui estão os atalhos para download dos arquivos principais para utilização em eventos, sem a necessidade de **clonar** todo o repositório.  
 
-O TcheLinux é um grupo de voluntários que trabalha divulgação do Software Livre no estado do Rio Grande do Sul, através da organização e realização de eventos gratuitos para estudantes, profissionais da área de Tecnologia da Informação e demais interessados.
+ - **Facebook**  
+	- [Capa de eventos](https://github.com/rtomkiel/recursos-graficos-abertos/raw/master/modelos/Facebook/CapaEventoFacebook.xcf "Capa de eventos no Facebook");  
+	- [Capa página](https://github.com/rtomkiel/recursos-graficos-abertos/raw/master/modelos/Facebook/CapaFacebook.xcf "Capa de página no Facebook");  
+	- [Postagens](# "Modelo para postagens");  
+	- [Capa Grupos](https://github.com/rtomkiel/recursos-graficos-abertos/raw/master/modelos/Facebook/CapaGrupos.xcf "Capa para grupos no Facebook");  
 
-O grupo promove também a caridade, uma vez que participantes de seus eventos são encorajados a doarem alimentos não-perecíveis para serem encaminhados à instituções de caridade.
+
+ - **Twitter**  
+	- [Perfil](https://github.com/rtomkiel/recursos-graficos-abertos/raw/master/modelos/Twitter/PerfilTwitter.xcf "Imagem de perfil do Twitter")  
+	- [Capa](https://github.com/rtomkiel/recursos-graficos-abertos/raw/master/modelos/Twitter/CapaTwitter.xcf "Capa Twitter")  
+	- [Postagens](https://github.com/rtomkiel/recursos-graficos-abertos/raw/master/modelos/Twitter/PostTwitter.xcf "Modelo de postagem no Twitter")  
 
 
-**Nossas principais iniciativas**
+### Dicas de utilização e otimização
+Para a melhor utilização dos recursos, mantemos um arquivo com **dicas**, regras de postagem e aproveitamento dos **recursos** em redes sociais.  
+ - **Link** para o arquivo **[aqui](https://github.com/rtomkiel/recursos-graficos-abertos/tree/master/dicas "Dicas de boa utilização das redes sociais" )**
 
-- Divulgar o Software Livre no estado do Rio Grande do Sul
-- Compartilhar conhecimento técnico e experiências
-- Suporte a novos usuários de Software Livre
-- Incentivo à caridade
 
-**Links úteis**  
 
-Site: [tchelinux.org](https://tchelinux.org)  
-Lista de discussão: [Tchelinux](https://groups.google.com/forum/#!forum/tchelinux)  
-Canal de IRC: [#tchelinux](http://freenode.net/)  
-Facebook: [/Tchelinux](https://facebook.com/tchelinux)  
-YouTube: [tchelinux](https://www.youtube.com/channel/UChibAixACm-r5NZVgr53QbA)  
-Twitter: [@tchelinux](https://twitter.com/tchelinux)  
+
+### Créditos
+ - Cartazes em .svg e .xcf: [Regis Tomkiel](https://github.com/rtomkiel "GitHub de Régis Tomkiel")   
+ - Capa do evento: [Regis Tomkiel](https://github.com/rtomkiel "GitHub de Régis Tomkiel")   
+ - Arquivos de modelo: [Regis Tomkiel](https://github.com/rtomkiel "GitHub de Régis Tomkiel")   
